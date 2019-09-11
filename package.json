@@ -1,0 +1,19 @@
+{
+  "name": "marco_rangel",
+  "version": "1.0.0",
+  "description": "Assimilated Marco Rangel. Resistance is futile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeisavca/marco_rangel.git"
+  },
+  "author": "Alexei Savca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeisavca/marco_rangel/issues"
+  },
+  "homepage": "https://github.com/alexeisavca/marco_rangel#readme"
+}
